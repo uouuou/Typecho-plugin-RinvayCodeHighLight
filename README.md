@@ -1,7 +1,7 @@
 ## 说明
 
- - 代码展示样式，将 [highlightjs][4] 制作为typecho插件形式。
- - 该项目由于我平时使用的语言比较多，生成了很多的语言JS包很大，若想要轻量级，请到[https://prismjs.com/download.html][5]自行下载。
+ - 代码展示样式，将 [highlightjs][3] 制作为typecho插件形式。
+ - 该项目由于我平时使用的语言比较多，生成了很多的语言JS包很大，若想要轻量级，请到[https://prismjs.com/download.html][1]自行下载。
 
 ## 使用方法
 
@@ -24,8 +24,7 @@ Emai: hrinvay@gmail.com
 
 [https://github.com/wcoder/highlightjs-line-numbers.js][3]
 
-[1]: https://github.com/hongweipeng/MenuTree_for_typecho
-[2]: https://www.hongweipeng.com/
-[3]: https://github.com/wcoder/highlightjs-line-numbers.js
-[4]: https://highlightjs.org/
-[5]: https://prismjs.com/download.html
+
+[2]: https://www.rinvay.cc/
+[3]: https://highlightjs.org/
+[1]: https://prismjs.com/download.html
